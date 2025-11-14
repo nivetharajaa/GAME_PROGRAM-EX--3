@@ -7,7 +7,7 @@
 To replace the default third person character mesh with a custom skeletal mesh and apply new animations using an animation blueprint.
 
 ## Procedure
-1. Import New Character Mesh and Animations:
+1.Import New Character Mesh and Animations:
 In the Content Browser, import a new Skeletal Mesh along with its Animations (FBX files).
 Ensure the mesh is rigged correctly (ideally to the UE4 Mannequin Skeleton or compatible with it).
 
